@@ -3,6 +3,7 @@
 This repository contains a Helix schema for a Garry's Mod Star Wars Roleplay (RP) server. It's released as-is, without support. Users should use this schema at their own risk.
 
 ## Compatibility
+This is a Helix schema, therefor you need the helix gamemode to use it. Which you can find [here.](https://gethelix.co/).
 
 While this schema is operational and designed to be used with the WiltOS Renegade Squad System, it should function without it. However, adjustments might be necessary to make it work perfectly without it.
 The character creation system uses these [models.](https://steamcommunity.com/sharedfiles/filedetails/?id=2899560046).
