@@ -1,0 +1,8 @@
+
+"starwarsrp"
+{
+	"base" 			"helix"
+	"title" 		"Star Wars RP"
+	"author" 		"Theodor"
+	"menusystem"	"1"
+}
